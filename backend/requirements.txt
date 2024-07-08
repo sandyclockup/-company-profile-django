@@ -1,0 +1,11 @@
+django_rest_framework
+django-cors-headers
+djangorestframework-simplejwt
+mysqlclient
+mysql-connector
+django-utils-six
+python-dotenv
+faker
+python-slugify
+jsons
+# --upgrade djangorestframework-simplejwt
